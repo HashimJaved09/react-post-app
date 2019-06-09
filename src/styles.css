@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.active {
+    background-color: #1a237e;
+}
+
+.home .post img {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: -20px;
+    left: -50px;
+    opacity: 0.5;
+}
+
+.home .post {
+    overflow: hidden;
+    padding-left: 80px;
+}
